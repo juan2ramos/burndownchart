@@ -19,8 +19,8 @@
 [context.production]
   publish = "dist"
   command = "npm run build"
-  environment = { VUE_APP_KEY=0ec32d776273ac27b740291975df5bcf,
-VUE_APP_TOKEN=eb26d00f7e7c0c052e567fbbab38be026b726c2867ac771c554c43c82344fe31 }
+  environment = { VUE_APP_KEY="0ec32d776273ac27b740291975df5bcf",
+VUE_APP_TOKEN="eb26d00f7e7c0c052e567fbbab38be026b726c2867ac771c554c43c82344fe31" }
 
 
 
